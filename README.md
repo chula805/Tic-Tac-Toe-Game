@@ -37,7 +37,7 @@ Welcome to the Tic Tac Toe Game website! Get ready for a classic and timeless ga
 
 🌐 Live Demo
 
-Experience the fun of the Tic Tac Toe Game with our live demo - 
+Experience the fun of the Tic Tac Toe Game with our live demo - https://chula805.github.io/Tic-Tac-Toe-Game/
 
 📬 Feedback
 
